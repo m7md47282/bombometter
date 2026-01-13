@@ -1,0 +1,7 @@
+{
+  "name": "Sentinel - Ordnance Identification AI",
+  "description": "A mission-critical application for military personnel to identify unexploded ordnance (UXO) and improvised explosive devices (IEDs) using advanced vision AI.",
+  "requestFramePermissions": [
+    "camera"
+  ]
+}
